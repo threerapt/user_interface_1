@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1047479514118",
+    "firebase_url": "https://excel-e3cfe-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "excel-e3cfe",
+    "storage_bucket": "excel-e3cfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047479514118:android:56e28c0ab8700d37e0ff87",
+        "android_client_info": {
+          "package_name": "com.example.user_interface_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZdof66MgmrbD6JJIzxddIGF6mhMGQbxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
